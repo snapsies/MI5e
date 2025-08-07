@@ -1,0 +1,20 @@
+
+{
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "https://discord.gg/yaPB64V4Ft",
+      "permanent": true
+    },
+    {
+      "source": "/snappor",
+      "destination": "https://snappor.eu",
+      "permanent": false
+    },
+    {
+      "source": "/Docs",
+      "destination": "https://docs.example.com",
+      "permanent": true
+    }
+  ]
+}
